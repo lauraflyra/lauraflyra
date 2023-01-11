@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @lauraflyra
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in computational neuroscience, specifically applications of machine learning methods for decoding of neural data. On my spare time I'm a writer that tries out different sports and loves kitesurfing above them all.
+- 🌱 I’m currently finishing my master's in Computational Nerusocience in the Bernstein Center for Computational Neuroscience Berlin.
+- 📫 How to reach me laura - freire . lyra at bccn - berlin . de
 
-<!---
-lauraflyra/lauraflyra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
